@@ -1,14 +1,15 @@
- [
-        {
-          "startTime": "2016-02-26T14:16:00+00:00",
-          "uploadProductType": "Document",
-	"displayFor": ["Radhika", "Gopal", "Rahul"]
-          
-	},
- {
-          "startTime": "2016-03-29T14:16:00+00:00",
-          "uploadProductType": "Spreadsheet",
-	"displayFor": ["Kanha", "SomBaba", "Anshu"]
-          
-	}
-]
+{
+	"data": [{
+			"startTime": "2016-02-26T14:16:00+00:00",
+			"uploadProductType": "Document",
+			"displayFor": ["Radhika", "Gopal", "Rahul"]
+
+		},
+		{
+			"startTime": "2016-03-29T14:16:00+00:00",
+			"uploadProductType": "Spreadsheet",
+			"displayFor": ["Kanha", "SomBaba", "Anshu"]
+
+		}
+	]
+}
