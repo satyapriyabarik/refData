@@ -10,6 +10,12 @@
 			"uploadProductType": "Spreadsheet",
 			"displayFor": ["Kanha", "SomBaba", "Anshu"]
 
+		},
+		 {
+			"startTime": "2018-03-29T14:16:00+00:00",
+			"uploadProductType": "Ms Word"
+			
+
 		}
 	]
 }
